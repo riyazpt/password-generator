@@ -22,7 +22,7 @@ A simple and responsive password generator built with **React** and **Tailwind C
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/riyazpt/password-generator.git
 cd password-generator
 npm install
 npm run dev  # or npm start
